@@ -3,5 +3,6 @@
 Defect Detection using Tensorflow Object Detection API in Google Colab. 3 classes from DAGM Dataset used in this project
 
   You can see the output below 
+    ![alt text](https://i.resimyukle.xyz/5UaJ6B.png)
  
 
